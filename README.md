@@ -1,4 +1,4 @@
-# brc20-fractal-launchpad
+  # brc20-fractal-launchpad
 
 The BRC-20 Token Launchpad on the Fractal Bitcoin Network is designed to list newly deployed tokens and display their minting status. Users can deploy, mint, and transfer these tokens independently.
 
@@ -9,7 +9,7 @@ To set up the RRC20-Fractal Launchpad on your local machine, please follow these
 1. Ensure you have Node.js installed. You can download it from the [Node.js website](https://nodejs.org/).
 
 2. Clone the repository:
-
+   
     ```bash
     git clone https://github.com/rizzolib/brc20-fractal-launchpad.git
     cd brc20-fractal-launchpad
@@ -308,5 +308,6 @@ npm test
 ```
 
 ## Contact Info
-I have provided the project structure and BRC20 token deploy, mint, tranfer code part in the README to keep security and the NDA sign. For further technical support and development inquiries, please contact me here.  
+I've shared some sections of the code, but not the entire codebase due to an NDA and security considerations. If you require technical support or have development inquiries, please feel free to reach out to me.
 
+- Telegram: https://t.me/inscNix/ 
