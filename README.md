@@ -8,7 +8,7 @@ To set up the RRC20-Fractal Launchpad on your local machine, please follow these
 
 1. Ensure you have Node.js installed. You can download it from the [Node.js website](https://nodejs.org/).
 
-2. Clone the repository:
+2. Clone the repository: 
    
     ```bash
     git clone https://github.com/rezzecup/brc20-fractal-launchpad.git
