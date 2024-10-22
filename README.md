@@ -12,7 +12,7 @@ To set up the RRC20-Fractal Launchpad on your local machine, please follow these
    
     ```bash  
     git clone https://github.com/rezzecup/brc20-fractal-launchpad.git 
-    cd brc20-fractal-launchpad
+    cd brc20-fractal-launchpad 
     ```
 
 3. Install the necessary dependencies:
